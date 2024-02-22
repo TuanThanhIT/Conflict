@@ -1,0 +1,14 @@
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\bin\Debug\net8.0\test_git_conflic.exe
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\bin\Debug\net8.0\test_git_conflic.deps.json
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\bin\Debug\net8.0\test_git_conflic.runtimeconfig.json
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\bin\Debug\net8.0\test_git_conflic.dll
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\bin\Debug\net8.0\test_git_conflic.pdb
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.AssemblyInfoInputs.cache
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.AssemblyInfo.cs
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.csproj.CoreCompileInputs.cache
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.dll
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\refint\test_git_conflic.dll
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.pdb
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\test_git_conflic.genruntimeconfig.cache
+D:\Test-Git-Conflict\test_git_conflic\test_git_conflic\obj\Debug\net8.0\ref\test_git_conflic.dll
