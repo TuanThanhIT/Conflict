@@ -7,10 +7,11 @@ namespace testGit
     {
         public static void Main(string[] args)
         {
-            int x = 5;
+            int x = 555;
             int y = 10;
-            int tong = x + y;
+            int tong = x - y;
             Console.WriteLine(tong);
+            Console.WriteLine("here");
         }
     }
 }
