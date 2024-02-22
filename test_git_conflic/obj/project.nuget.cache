@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8zWMyP3bfG5cY5s+YWs5oaZDmlOXpx7ePACDuZ0O3XecI7wQtEp7PwOYakMNI/0isJYtAKoCxf5YQVhSMh/pRw==",
+  "dgSpecHash": "YImi0iDyVQuevnoD/dy7AVB1i98IBoUA1JMGBiGAAIVo2ho9lXOVNPqBD6HQZ0xNiIzPL/lY9IsAf2ZK/omLlg==",
   "success": true,
-  "projectFilePath": "D:\\Test-Git-Conflict\\test_git_conflic\\test_git_conflic\\test_git_conflic.csproj",
+  "projectFilePath": "D:\\GitCuaThanh\\Conflict\\test_git_conflic\\test_git_conflic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
